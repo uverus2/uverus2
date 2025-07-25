@@ -1,5 +1,13 @@
 ## Hi there, nice to meet you 👋
 
+## 👋 Hey there, I'm Konstantin
+
+I'm a full-stack developer with a passion for crafting thoughtful digital experiences.  
+Since 2018, I’ve been building scalable apps using modern tools like **Next.js**, **Laravel**, **Vue**, and **TypeScript** — always with a focus on clean-ish code, performance, and developer happiness.
+
+### 🌍 Based in Bournemouth, UK  
+### 🛠️ Developer since 2018  
+
 ## 🧰 Stack
 
 #### Front End
