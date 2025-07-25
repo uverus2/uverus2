@@ -1,5 +1,3 @@
-## Hi there, nice to meet you 👋
-
 ## 👋 Hey there, I'm Konstantin
 
 I'm a full-stack developer with a passion for crafting thoughtful digital experiences.  
