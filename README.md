@@ -9,7 +9,7 @@ Since 2018, I’ve been building scalable apps using modern tools like **Next.js
 ## 🧰 Stack
 
 #### Front End                                                                                               
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)                                                                                                                                           
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
