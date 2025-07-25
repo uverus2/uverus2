@@ -8,15 +8,15 @@ Since 2018, I’ve been building scalable apps using modern tools like **Next.js
 
 ## 🧰 Stack
 
-#### Front End
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+#### Front End                                                                                                    #### In Between  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)                                  
+                                                                                                                  ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
+                                                                                                                  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-#### In Between
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
 
 #### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
