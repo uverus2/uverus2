@@ -61,7 +61,10 @@
       console.log(`Hi, I’m ${this.name}!`);
     },
     summary() {
-      return `${this.name} is a passionate developer based in ${this.location} with ${this.yearsExperience}+ years of professional experience.`;
+      return `
+              ${this.name} is a passionate developer based in ${this.location}
+              with ${this.yearsExperience}+ years of professional experience.
+      `;  
     },
   };
   
